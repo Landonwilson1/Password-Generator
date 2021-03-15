@@ -9,5 +9,5 @@ The project has been has been published to GitHub pages listed below.
 
 Link to application https://landonwilson1.github.io/Password-Generator/
 
-[Screenshot of Password Generator](screenshot.png)
+![Screenshot of Password Generator](screenshot.png)
 
